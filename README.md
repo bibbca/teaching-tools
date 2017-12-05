@@ -1,10 +1,5 @@
 # teaching-tools
-Teaching Tools for Math/Sci/CS
-
-These will be a collection of Teaching Resources and Tools for Math/Sci/CS Classes
-
-
-----------
+Teaching Tools for [Math](https://bibbca.github.io/teaching-tools/Math/MathResources.html), [Science](https://bibbca.github.io/teaching-tools/Science/ScienceResources.html), and Computer Science geared towards High School Teachers in the United States.
 
 
 ## General Resources:
