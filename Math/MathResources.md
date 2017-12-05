@@ -19,7 +19,7 @@
  - [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 	 - A great way to get another perspective on Mathematics and a great resource for students.
 
-### Math Presentations:
+### Math Presenting:
 
  - [Beamer Presentations on Overleaf.com](https://www.overleaf.com/gallery/tagged/presentation)
 	 - This solution uses LaTeX.
@@ -34,6 +34,9 @@
  - [RStudio](https://www.rstudio.com/)
 	 - Within this tool you can make interactive notebooks made with R code.
 	 - Also allows for the use of R packages like knitr, ggplot2, and rmarkdown.
+ - [Seeing Theory](https://seeingtheory.io/)
+ 	 - Interactive examples for a variety of Probability and Statistical concepts.
+	 - [Github Link](https://github.com/seeingtheory/Seeing-Theory)
 
 ### Online Math Homework Systems:
 Note: These resources are untested, so your mileage may vary.
