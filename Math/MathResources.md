@@ -1,3 +1,5 @@
+## Math Resources
+
 ### YouTube Resources:
 
  - [3Blue1Brown](https://youtube.com/3blue1brown)
@@ -34,7 +36,7 @@
 	 - Also allows for the use of R packages like knitr, ggplot2, and rmarkdown.
 
 ### Online Math Homework Systems:
-Note: These resources are untested, so you're mileage may vary.
+Note: These resources are untested, so your mileage may vary.
 
  - [MyOpenMath](https://www.myopenmath.com/) 
  - [Khan Academy](https://khanacademy.org)
