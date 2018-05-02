@@ -1,6 +1,7 @@
 # teaching-tools
 Teaching Tools for [Math](https://bibbca.github.io/teaching-tools/Math/MathResources.html), [Science](https://bibbca.github.io/teaching-tools/Science/ScienceResources.html), and Computer Science geared towards High School Teachers in the United States.
 
+[Tech Tool Resources](https://docs.google.com/document/d/1TN4mZTrwVBGhOWktFLb9BqsU_ql-ISthtY0aefHjjBs/edit?usp=sharing)
 
 ## General Resources:
 
