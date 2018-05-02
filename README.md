@@ -5,7 +5,7 @@ Teaching Tools for [Math](https://bibbca.github.io/teaching-tools/Math/MathResou
 
 ## General Resources:
 
- - [Edpuzzle](https://edpuzzle.com/) - YouTube Management for Teaching
+ - [edPuzzle](https://edpuzzle.com/) - YouTube Management for Teaching
  - [Github](http://github.com) - Great Resource
  - [Doceri](http://doceri.com/) - Desktop control from an iPad
  - [Open Broadcasting Software](https://obsproject.com/) - Free Recording and Streaming software. (Great for Flipped Classrooms and/or Remote Learning)
