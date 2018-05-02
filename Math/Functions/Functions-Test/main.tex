@@ -1,0 +1,104 @@
+\documentclass[addpoints,12pt]{exam}
+\usepackage[lmargin=1.0in,rmargin=1.0in,tmargin=0.75in,bmargin=0.75in]{geometry} 
+\usepackage{amsmath, graphicx, float, multicol, enumitem}
+
+\setlength{\parindent}{0in}  % No indent on line returns 
+
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo} %% Option 'black' gives heavier bold face 
+\usepackage{pictex}
+
+
+
+
+\pagestyle{plain}
+\pointpoints{pt}{pts}
+\bonuspointpoints{pt: bonus}{pts: bonus}
+
+\pagestyle{plain}
+\begin{document}
+\thispagestyle{empty}
+\pagestyle{empty}
+
+{\large\bfseries Algebra 2 \hfill Chapter 3 Unit Test}
+
+\vspace{16pt}
+{\bfseries Name: \underline{\hspace{3in}}}
+
+\medskip
+{\em Write solutions to the following problems on one side of the provided blank paper.}
+
+\bigskip
+\hrule width \hsize \kern 0.5mm \hrule width \hsize height 1pt 
+
+%\vspace{0.25in}
+%\subsubsection*{Scoring:}  
+%	\settabletotalpoints{65}
+%
+%	\bigskip
+%	\gradetable[h][questions]
+
+\vspace{0.25in}
+\textsc{Section 1}
+\begin{questions}
+	\question[10] Find the domain and range of the following relation \ldots
+		\begin{align*}
+			\{(1,2), (2,4), (3,28), (4, 48)\}
+		\end{align*}
+
+\vspace{1.5in}
+
+	\question[10] Is the following relation a function?
+    \begin{align*}
+    	\{(12,2), (14,3), (14,6), (15, 8), (25,2)\}
+    \end{align*}
+    
+\vspace{1.5in}
+
+	\question[10] If $f(x)=\sqrt[]{3x}$, find $f(3)$.
+    
+\vspace{1.5in}
+	\question[10] If $f(x) = x^{-3}$, find $f(4)$.
+    
+\vspace{1.5in}
+\textsc{Section 2}
+	\question[10] Find where the domain is defined and find the range of the following function: $$g(x)=\frac{x+5}{2x-3}.$$
+    
+\vspace{1.5in}
+	\question[10] Find where the domain is defined and find the range of the following function: $$h(x)=\sqrt[]{x+4}.$$
+\vspace{1.5in}
+	\question[10] Find where the domain is defined and find the range of the following function: $$j(x)=3x^2 +4x.$$
+    \vspace{1.5in}
+    \textsc{Section 3}
+	\question[10] Write the following Interval in Set-Builder Notation: $$(3,26].$$
+    \vspace{1.5in}
+    \question[10] Find the local maxima and minima of the following graph:
+    	\input{graph1.tex}
+        
+\vspace{1.5in}
+    \question[10] Find the local maxima and minima of the following graph:
+\input{graph2.tex}
+
+\vspace{1.5in}
+    \question[10] Find the range of the following graph:
+	\input{graph2.tex}
+    
+\vspace{1.5in}
+	\question[30] If $f(x)=x^3+2x$ and $g(x)=x^2$ find the following compositions:
+    \begin{enumerate}
+    \item $(f+g)(x)$
+    \vspace{.5in}
+    \item $(\frac{f}{g})(x)$
+    \vspace{.5in}
+    \item $(f \circ g)(x)$
+    \end{enumerate}
+\newpage
+	\question[10] Sketch a graph of $x^2-3$.
+    	\input{blankgraph.tex}
+\vspace{1.5in}
+	\question[10] Reflect the graph of $f(x)=x^3-1$ across the $x$-axis.
+    \input{blankgraph.tex}
+\vspace{1.5in}
+	\question[10] If $f(x)=\frac{1}{x+2}$ and $g(x)=\frac{1}{x}-2$ does $g=f^-1$?
+\end{questions}
+\end{document}
