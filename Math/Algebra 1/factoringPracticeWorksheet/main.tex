@@ -1,0 +1,80 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[lmargin=1.0in,rmargin=1.0in,tmargin=0.75in,bmargin=0.75in]{geometry} 
+
+\usepackage{tasks}
+    % Info about tasks package: mirrors.concertpass.com/tex-archive/macros/latex/contrib/tasks/tasks_en.pdf
+
+% For the random problems:
+\usepackage{pgf}
+\usepackage{pgffor}
+
+% Document Info
+\title{Factoring Practice Worksheet}
+\author{Caleb Bibb}
+\date{December 2018}
+
+% Document Commands
+% \newcommand{\InitVariables}
+% {%
+%  \pgfmathsetmacro{\b}{int(random(1,10)-11)}
+%  \pgfmathsetmacro{\d}{int(random(1,10))}
+%  \pgfmathsetmacro{\B}{int(\d+\b)}
+%  \pgfmathsetmacro{\C}{int(\b*\d)}
+% }
+
+% \newcommand{\trinomial}
+% {%
+% \InitVariables
+% \((x\b)(x+\d)=\ifnum \B <0 x^2{\B}x\C \else x^2+{\B}x\C\fi\)
+% }
+
+% \newcommand{\ManyTrinomials}[1]
+% {%
+% \foreach \x in {1,2,3,...,#1}
+% {\trinomial \\}
+% }
+
+% Space between rows
+\newcommand{\V}{\vspace{1in}}
+
+\begin{document}
+{\large\bfseries Algebra 1 \hfill  Factoring Practice}
+
+\bigskip
+
+{\bfseries Name: \underline{\hspace{3in}}}
+\bigskip
+\hrule width \hsize \kern 0.5mm \hrule width \hsize height 1pt
+\begin{tasks}[style=enumerate](3)
+\task $x^2 +8x +16$
+\task $h^2 -81$
+\task $4x^2 +72x +9$
+\V
+\task $x^2 -3x -54$
+\task $x^2 -16$
+\task $x^2 -9$
+\V
+\task $x^2 +7x -30$
+\task $x^2 +5x -14$
+\task $x^2 +2x -35$
+\V
+\task $x^2 -x -6$
+\task $x^2 -36$
+\task $x^2 +2x -48$
+\V
+\task $x^2 -3x -4$
+\task $2x^2 -x -15$
+\task $6x^2 +9x -15$
+\V
+\task $16x^2 -4x -6$
+\task $x^2 -2x -3$
+\task $40x^2 +22x - 35$
+\V
+\task $15x^2 +5x -4x -40$
+\task $x^2 +7x -3x -21$
+\task $x^2 +x -72$
+\end{tasks}
+
+%\ManyTrinomials{20}
+\end{document}
