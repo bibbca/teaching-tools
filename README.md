@@ -15,5 +15,6 @@ Teaching Tools for [Math](https://bibbca.github.io/teaching-tools/Math/MathResou
 
  - Markdown is a great online editing language for blog postings or for use with GitHub.
  - Here are my recommended Markdown Editors
+   - [Obsidian](https://obsidian.md/) My notetaking program.
    - [StackEdit](https://stackedit.io/) [Github](https://github.com/benweet/stackedit)  This is my favorite in browser Markdown Editor (online)
    - [Writing](https://josephernest.github.io/writing/) [GitHub](https://github.com/josephernest/writing) This is my favorite offline Markdown editor.  It also supports LaTeX editing!
